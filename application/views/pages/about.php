@@ -1,0 +1,2 @@
+<h1><?= $title ?></h1><br>
+<h5>Welcome to Q&A, a dedicated platform developed as part of our coursework to showcase the power and flexibility of CodeIgniter. Our mission is to create a user-friendly and efficient web application that meets real-world needs while demonstrating our technical skills and understanding of web development frameworks</h5>
